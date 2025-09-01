@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup\" -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup\" -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup\" -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/denis/workspace_ccstheia/gpio_ex1_setup/gpio_ex1_setup.c"
+   }
+]

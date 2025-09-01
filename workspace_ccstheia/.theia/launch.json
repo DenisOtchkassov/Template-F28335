@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CCS Debug",
+            "type": "ccs-debug",
+            "request": "launch"
+        },
+        {
+            "name": "F28335.ccxml",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "${workspaceFolder}\\F28335.ccxml"
+        },
+        {
+            "name": "Template F28335",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Template F28335",
+                "resourceId": "/Template F28335"
+            }
+        }
+    ]
+}

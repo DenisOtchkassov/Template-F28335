@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm\" -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/C2000Ware_5_05_00_00/libraries/calibration/hrpwm/f2837xd/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/adc_ex11_multiple_soc_epwm.c"
+   },
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm\" -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/C2000Ware_5_05_00_00/libraries/calibration/hrpwm/f2837xd/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm\" -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/C2000Ware_5_05_00_00/libraries/calibration/hrpwm/f2837xd/include/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/denis/workspace_ccstheia/adc_ex11_multiple_soc_epwm/device/device.c"
+   }
+]
